@@ -1,1 +1,4 @@
-gpu-ai-performance-lab
+performance
+accelerators
+cs
+ai
