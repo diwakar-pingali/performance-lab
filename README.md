@@ -2,3 +2,4 @@
 - accelerators
 - cs
 - ai
+- latest frameworks/algos/etc
